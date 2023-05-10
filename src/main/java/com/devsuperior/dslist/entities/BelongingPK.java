@@ -62,7 +62,4 @@ public class BelongingPK {
 		return Objects.equals(game, other.game) && Objects.equals(list, other.list);
 	}
 
-	
-	
-	
 }
